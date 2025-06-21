@@ -1,8 +1,8 @@
 # create own Rat without coding knowledge
 
-download our course
+## download our course
 
-in pack includes
+## in pack includes
 
 1. video tutorial
 2. our IDE
