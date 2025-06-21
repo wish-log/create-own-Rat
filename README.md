@@ -2,6 +2,8 @@
 
 ## download our course   <a href="https://t.me/prorat370"> click </a>.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wish-log&label=Profile%20views&color=0e75b6&style=flat" alt="wish-log" /> </p>
+
  
 ## in pack includes
 
